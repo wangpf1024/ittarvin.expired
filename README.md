@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋「**探索者都需要清楚三件事：现在的位置，目标，以及通向目标的道路。**」👋
+
+
 
 <!--
 **ittarvin/ittarvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
