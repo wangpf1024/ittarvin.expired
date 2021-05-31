@@ -1,12 +1,9 @@
-###### 👋「**探索者都需要清楚三件事：现在的位置，目标，以及通向目标的道路。**」👋
-
-
+#### 👋「**探索者都需要清楚三件事：现在的位置，目标，以及通向目标的道路。**」👋
 
 <!--
 **ittarvin/ittarvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -16,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on ...
+
+
