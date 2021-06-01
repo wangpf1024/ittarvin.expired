@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 - ...
 
 ##### 🛠 Skill
-- Spring Cloud, Mybatis, Git ... 。
-- Mysql, Redis Cluster, Kafka ... 。
+- Spring Cloud, Mybatis, Git
+- Mysql, Redis Cluster, Kafka
 - ... 
