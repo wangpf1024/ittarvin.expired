@@ -11,20 +11,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 Career
+🔭 **Career**
 - JAVA软件工程师
 - 2011年～至今
 
-👨‍🎓 Education
+👨‍🎓 **Education**
 - 北京邮电大学 - 计算机信息管理
 - 北京理工大学 - 计算机科学与技术
 
-👨‍💻 Job Experience
+👨‍💻 **Job Experience**
 - 中交兴路（18年～至今）【大数据，保险】
 - 社区半径【智能社区】
 
-🛠 Skill
+🛠 **Skill**
 - Spring Cloud, Mybatis, Git
 - Mysql, Redis Cluster, Kafka
 
-🌱 wiki
+🌱 **Wiki**
