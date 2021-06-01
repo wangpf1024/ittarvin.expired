@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 - Spring Cloud, Mybatis, Git
 - Mysql, Redis Cluster, Kafka
 
-⚡ wiki
+🌱 wiki
