@@ -17,6 +17,6 @@
 
 🛠 **Skill**
 - Spring Cloud, Mybatis, Git
-- Mysql, Redis Cluster, Kafka
+- Mysql, Redis Cluster, Mongodb, Kafka
 
 🌱 **Wiki**
