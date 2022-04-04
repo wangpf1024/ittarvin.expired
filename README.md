@@ -17,4 +17,4 @@
 - Mysql, Redis Cluster, Mongodb, Kafka
 
 🌱 **Wiki**
-- home page (https://github.com/ittarvin/ittarvin/wiki)
+- home page (https://wiki.ittarvin.cn)
