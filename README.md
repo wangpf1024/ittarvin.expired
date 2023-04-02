@@ -16,5 +16,3 @@
 - Spring Cloud, Mybatis, Git
 - Mysql, Redis Cluster, Mongodb, Kafka
 
-🌱 **Wiki**
-- home page (https://wiki.ittarvin.cn)
